@@ -1,6 +1,6 @@
 # Sales_Data_Analysis
 The Project which involved in-depth analysis of  identify trends, top-selling products, and revenue metrics for business decision-making
-
+![Screenshot 2023-09-10 142344](https://github.com/Bremsridhar/Sales_Data_Analysis/assets/110837365/e768a782-997f-4b0d-a316-1a68874e6801)
 After conducting a comprehensive analysis of our sales data, I've identified key insights that can significantly impact our business strategy:
 
 1️⃣ Top Sellers: The products that brought in the most money were:
@@ -21,6 +21,7 @@ Focusing on these and offering special deals could boost sales even more! 💥
 
 6️⃣ Big Cities, Big Sales: Cities like San Francisco, Los Angeles, and New York City brought in the most money. We should keep focusing on these places. 🌆🌃🗽
 7️⃣ States that Shine: California (CA), Texas (TX), and Massachusetts (MA) were the top states for sales.
+
 
 8️⃣ Busy Streets: Some streets had way more orders than others, like Madison St, 10th St, Hill St, and 7th St. 🛍️🚦
 
